@@ -1,0 +1,27 @@
+.container_small{
+    margin-left: 150px;
+    margin-top: 15px;
+    width: 700px;
+}
+.containter_small_content{
+    display: flex;
+    flex-direction: row;
+}
+
+.small-picture > img{
+    width: 200px;
+    min-width: 200px;
+    margin-right: 20px;
+}
+
+.small-title{
+    display: flex;
+    align-items: center;
+}
+.small-title > h1{
+    font-size: 20px;
+}
+
+.separator > hr{
+    margin-top: 10px;
+}
