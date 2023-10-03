@@ -24,3 +24,17 @@
 .content-description > p{
     color: rgb(161, 161, 161);
 }
+
+button{
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: lightslategray;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: dimgray;
+}
