@@ -5,6 +5,10 @@
     gap: 50px;
 }
 
+.container_menu-bar > ul > li{
+    font-weight: bold;
+}
+
 .container_menu-bar > ul > li > a:hover{
-    color: orange;
+    color: rgb(53, 53, 236);
 }

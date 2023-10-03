@@ -30,7 +30,7 @@ export const dataFake = [
 {
     "id":"5",
     "photo":"aaa",
-    "title": "",
+    "title": "Entenda o real motivo de sermos taxados",
     "description": "",
     "photoCover": ""
 },

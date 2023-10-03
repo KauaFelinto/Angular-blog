@@ -22,7 +22,7 @@
     font-size: 20px;
 }
 .small-title > h1 > a:hover{
-    color: chocolate;
+    color: rgb(53, 53, 236);
     transition: .3s;
 }
 

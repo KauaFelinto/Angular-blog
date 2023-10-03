@@ -9,7 +9,7 @@
 }
 
 .content-cover > img{
-    border: 5px solid rgb(144, 144, 144);
+    border: 5px solid rgb(53, 53, 236);
     border-radius: 5px;
     width: 500px;
     min-width: 500px;
@@ -22,7 +22,7 @@
 }
 
 .content-description > p{
-    color: rgb(161, 161, 161);
+    color: rgb(83, 83, 83);
 }
 
 button{
@@ -37,6 +37,7 @@ button{
     cursor: pointer;
 }
 button:hover{
-    background-color: chocolate;
+    background-color: rgb(53, 53, 236);
+    color: #fff;
     transition: .3s;
 }
