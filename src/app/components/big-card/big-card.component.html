@@ -1,11 +1,11 @@
 <div class="container-big-card">
     <div class="big-picture">
-        <img src="https://6vezes7.com.br/wp-content/uploads/2023/06/arte-blog-14-1024x576.png" alt="big-image">
+        <img src="{{ photoCover }}" alt="big-image">
     </div>
     <div class="big-title">
-        <h1><a href="#">Novo aranhaverso se torna mais um sucesso de bilheteria</a></h1>
+        <h1><a [routerLink]="['content', id]">{{ cardTitle }}</a></h1>
     </div>
     <div class="big-description">
-        <P><a href="#">Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso, onde ele encontra uma equipe encarregada de proteger sua própria existência.</a></P>
+        <P><a [routerLink]="['content', id]">{{ cardDescription }}</a></P>
     </div>
 </div>
