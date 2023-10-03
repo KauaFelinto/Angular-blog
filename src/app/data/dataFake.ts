@@ -26,5 +26,96 @@ export const dataFake = [
     "title": "Porque a taxação é tão ruim? O que não te contam",
     "description": "O adolescente Jaime Reyes ganha superpoderes quando um misterioso escaravelho se prende à sua coluna e lhe fornece uma poderosa armadura alienígena azul.",
     "photoCover": "https://revistaanamaria.com.br/media/_versions/2023-08/shein-ali-express-shopee-mudancas_widelg.jpg"
+},
+{
+    "id":"5",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"6",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"7",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"8",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
+},
+{
+    "id":"",
+    "photo":"aaa",
+    "title": "",
+    "description": "",
+    "photoCover": ""
 }
 ]
