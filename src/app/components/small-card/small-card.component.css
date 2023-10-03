@@ -21,6 +21,10 @@
 .small-title > h1{
     font-size: 20px;
 }
+.small-title > h1 > a:hover{
+    color: chocolate;
+    transition: .3s;
+}
 
 .separator > hr{
     margin-top: 10px;
